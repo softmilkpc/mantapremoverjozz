@@ -19,7 +19,7 @@ import os
 class Config:
 	
  TOKEN=os.environ.get("BOT_TOKEN",None)
- SOURCE="https://github.com/Artis7eeR/ForwardTagRemoverBot"
- START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n ©Artis7eeR"
- HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
+ SOURCE="https://t.me/mantapvids"
+ START_TEXT="Henlow [{}](tg://user?id={})\nGw botnya @mantapvids Channel Berguna untuk Menghapus caption caption gaje yang dipasang sama uploader termasuk gw sendiri eh jingan juga ya.\n ketik /help biar lu tau kegunaan gw apa !\n jgn lupa join ©mantapvids @groupgratis"
+ HELP_TEXT="Forward ke gw File,Video,Audio,Photo atau apapun sesuka kepala jidad kalian \n dan gw bakal ngirimin file tersebut kembali tanpa caption gaje!!\n\n`Gmn cara set caption su?`\nReply Caption ke File,Photo,Audio,Media"
 	
