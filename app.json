@@ -1,12 +1,12 @@
-{ "name": "ForwardTagRemoverBot", 
+{ "name": "mantapremoverjozzbot", 
  "description": " A Telegram Bot To Hide Forward Source",
- "repository": "https://github.com/Artis7eeR/ForwardTagRemoverBot",
+ "repository": "https://github.com/softmilkpc/mantapremoverjozz",
  "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
- "keywords": [ "bot","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
- "success_url": "https://telegram.dog/Anonforwabot",
+ "keywords": [ "bot","softmilkpc","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
+ "success_url": "web.telegram.org/mantapremoverjozzbot",
  "env": {
  "BOT_TOKEN": 
-{"description":"Get This Value from https://telegram.dog/BotFather",
+{"description":"Get This Value from web.telegram.org/BotFather",
  "value": ""}
 },
  "buildpacks":
